@@ -8,3 +8,4 @@
   ![系统分层结构图](http://a4.qpic.cn/psb?/V10cbDJC0dKm3a/VFqmlzC95TzwPVbSeXvRBob8UdwZlPVdktgE65u7RzI!/m/dH8BAAAAAAAAnull&bo=bAHrAQAAAAAFB6M!&rf=photolist&t=5)
   ![系统领域类图](http://a1.qpic.cn/psb?/V10cbDJC0dKm3a/Aaaofbc3I*48QXUYkYm7HujWU4EyLzJBfSSxvnqXXoA!/m/dAwBAAAAAAAAnull&bo=qwLXAQAAAAAFB1s!&rf=photolist&t=5)
   ![时序图](http://a4.qpic.cn/psb?/V10cbDJC0dKm3a/gBNZj.9xb*GDzrCQSCipdBULRObuzmakKg0EIYkl9Ew!/m/dG8BAAAAAAAAnull&bo=QgK4AQAAAAAFB90!&rf=photolist&t=5)
+  ![时序图2](http://a1.qpic.cn/psb?/V10cbDJC0dKm3a/GKlZl3KlT68jf5FaRPIpntBpUh71wGX9vboY1O4R3to!/m/dAwBAAAAAAAAnull&bo=ZAE6AQAAAAAFB3o!&rf=photolist&t=5)
